@@ -1,0 +1,1 @@
+print('Sarbatori fericite!')

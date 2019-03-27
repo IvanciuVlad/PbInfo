@@ -1,0 +1,6 @@
+f = open("sum.in", "r")
+g = open("sum.out", "w")
+a, b = map(int, f.read().split())
+f.close()
+g.write(str(a + b))
+g.close()
